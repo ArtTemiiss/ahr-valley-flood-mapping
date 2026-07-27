@@ -34,7 +34,7 @@ A sensitivity test across −2.0 dB, −2.5 dB, and −3.0 dB thresholds showed 
 
 - rapid_s1_pipeline.js — the rapid Sentinel-1 change-detection workflow (Google Earth Engine)
 - copernicus_benchmark.js — the Copernicus EMS exposure benchmark, using an identical asset stack for a like-for-like comparison
-- dissertation.pdf — full write-up: literature review, methodology, results, discussion, limitations, and operational recommendations (to be added)
+- dissertation.pdf — full write-up: literature review, methodology, results, discussion, limitations, and operational recommendations.
 
 ## Tools
 
